@@ -1,0 +1,133 @@
+﻿Id,Hospital,Location,Address,Number of Beds,Date of Establishment
+39,Hopital Dr S. Serhal,Metn/Baabda,"El Rabieh, Rue Michael Serhal",60,1905
+40,Hotel Dieu de France,Beirut,Hotel Dieu de France - Bvd. Alfred Naccache - Achrafieh - Beirut - Lebanon,430,1923
+41,Clinique Dr. Rizk,Beirut,Rue Zahar - Achrafieh - Beyrouth - Liban,160,1925
+43,Makassed,Beirut,Tarik El Jadida,200,1930
+44,Al-Rassoul Al-Aazam hospital,Beirut,Bourj Al-Barajneh - Airport Road - Beirut,240,1988
+47,Mount Lebanon Hospital,Metn/Baabda,Baabda,150,1995
+49,Ain Wazein Hospital,Chouf/Aley,Ain Wazein - El Chouf,137,1978
+50,Hopital Notre Dame Maritime,Kesrouan/Jbeil,Voie 13 - Jbeil,90,1981
+52,Nini hospital s.a.l,North Lebanon,Tripoli - Lebanon - P.O.Box: 1434,128,1928
+54,Dar Al-Ajaza Al-Islamia Hospital,Beirut,Tarik Al-Jadida - East of Sport City,700,1954
+55,Saideh,Metn/Baabda,Antelias,600,1946
+56,Child & Mother Welfare Hospital,Beirut,Tallet El Khayyat - Corniche Television - Hassan Kamel Sabbah Street,19,1951
+57,Islamy,North Lebanon,Azmy Strt-Tripoli,164,1945
+58,St Michel,Kesrouan/Jbeil,Amchit,13,1858
+59,Fouad Khoury Hospital,Beirut,Al Aziz Street - Maktabi BLDG. - Beirut - Lebanon,26,1960
+61,Rayak Hospital,Bekaa,Rayak,125,1995
+62,Foyer Saint Georges,Beirut,Ashrafieh,70,1874
+63,St Joseph Hospital - Raymond & Aida Najjar Medical Center,Metn/Baabda,Dora - Baouchrieh,159,1952
+64,Ghorayeb Maternité,Beirut,Ras El-Nabeh,15,1954
+65,Bekhaazi,Beirut,Clemenceau Strt,13,1961
+67,Bahman hospital,Beirut,Haret Hreik - Dakkash Street,200,1999
+69,Secours Populaire Libanais,South Lebanon,Nabatieh,75,1986
+70,St Jean,Metn/Baabda,El-Baouchrieh,14,1956
+71,Najjar Hospital,Beirut,"Ma'amari Street- Ras Beirut, Lebanon Str.P.O.Box: 113-5984",53,1982
+72,Hôpital Sainte Thérèse,Metn/Baabda,Hadath,130,1949
+73,Tatari hospital,Bekaa,Beshara Al Khoury Street - Baalbeck - Lebanon,35,1980
+74,Eye & Ear Hospital International,Metn/Baabda,Naccache - Mar Mansour Street - Near MTV,50,1995
+75,Dr. Hamed Farhat hospital,Bekaa,Kamed El Lawz - West Bekaa - Lebanon,84,1981
+76,El Hayat,Metn/Baabda,El Chiyah,117,1967
+77,Hamlin,Chouf/Aley,Hammana,40,1905
+78,Bahmad,Bekaa,Rachaya EL Wadi,30,1991
+79,Mother's,North Lebanon,Tripoli,15,1967
+80,AL-Hanan,North Lebanon,Tripoli - Al-mitein road - Tawjih street,35,1994
+81,Al Zahraa University Hospital,Beirut,Jnah,200,1976
+82,Mais,Bekaa,Chtoura,80,1978
+83,Amioune Surg.Hosp.,North Lebanon,Amioune,25,1940
+84,Raii,South Lebanon,El Ghazieh - Saida,100,1984
+86,Dr. Youssef Rahban Hospital s.a.r.l.,North Lebanon,Mejdlaya - Zghorta - Liban Nord,127,1986
+87,El Arz,Metn/Baabda,Zalka,50,1978
+88,Dar Al-Amal University Hospital,Bekaa,Douris - Baalbeck,220,2002
+89,"Al Salam, (La Paix)",North Lebanon,"Tripoli, South entrance - Roundabout El Salam, Rond Point La Paix.",177,1996
+90,Jabal Amel,South Lebanon,Tyr - Jal Al Baher,120,1982
+91,Centre Hospitalier Universitaire - Notre Dame de Secours,Kesrouan/Jbeil,Jbeil,250,1978
+93,Ghossein,Metn/Baabda,El Hazmieh,52,1980
+94,Hôpital des Soeurs de la Croix (Deir-El-Kamar),Chouf/Aley,Deir El Kamar,280,1969
+95,St Louis,Kesrouan/Jbeil,Jounieh,65,1972
+96,Beirut,Beirut,Ramlet El-Bayda,40,1974
+97,Irfane,Chouf/Aley,Simkanieh,39,1981
+98,Janoub - Nabatieh,South Lebanon,Nabatieh,27,1958
+99,Jbeily,South Lebanon,Hlalieh-Saida,52,1984
+100,Ghandour hospital,South Lebanon,Nabatieh - El Hamid Medical Center - Nabatieh El Fouka - Nabatieh,28,1990
+101,Khatib hospital,Bekaa,Karak - Zahleh - Bekaa main road,40,1976
+102,El Ouyoun (Lebanese Ophth. Hosp.),Chouf/Aley,Aley,40,1981
+103,Dar Sami Kodsi,Metn/Baabda,Atchaneh - Bikfaya,85,1970
+104,Fanar,South Lebanon,Marwanieh,240,1962
+105,Sacre Coeur,Metn/Baabda,Brazilia-Baabda,234,1848
+106,Abou Jaoude Hospital S.A.L,Metn/Baabda,"Jal El Dib, Rue Principal, Near Eglise Ste Takla",112,1961
+107,Alaeddine hospital,South Lebanon,Sarafand main road - Zahrani,100,1978
+108,Hopital Saint Georges - Ajaltoun,Kesrouan/Jbeil,"Ajaltoun, rue Georges Matta, kesrouan - Liban",100,1983
+109,Jesus The King,Kesrouan/Jbeil,Zouk Mekayel,105,1987
+110,Labib Medical Center s.a.l.,South Lebanon,Abou Zahr StreetP.O.box: 414 Saida - Lebanon,120,1972
+111,Beit Chabab,Metn/Baabda,Beit Chabab,130,1976
+112,Hopital Dr. Adnan Haidar,Beirut,Beirut - Noueiry Station - Lebanon,12,1956
+113,Kassab,South Lebanon,Hlaliye - Saida,47,1981
+114,M.E.H,Beirut,Ramlet Baida,180,1987
+115,Haddad hospital for the Rosary Sisters,Beirut,Gemmayzeh - Abou Rouss Street,50,1970
+118,Saint George Hospital University Medical Center,Beirut,Rmeil - Youssef Sursok StreetP.O.Box: 166378 Achrafieh Beirut 11002807 - Lebanon,210,1878
+119,Barbir,Beirut,Fouad 1est Street,100,1900
+126,Sahel General Hospital,Beirut,Airport Ave. PO box 99/25 Ghobeiry - Beirut - Lebanon,152,1983
+127,Trad Hospital & Medical Center,Beirut,"53, rue du Mexique, Clemenceau",63,1940
+130,Hopital Libanais,Beirut,Geitawi Street - Ashrafieh,150,1927
+132,Haroun,Metn/Baabda,Amaret Chalhoub-Zalka,95,1985
+136,St Charles,Metn/Baabda,Fayadieh,150,1908
+137,Psychiatric Hospital of the Cross (Jal El Dib),Metn/Baabda,Jal EL Dib - Deir El Salib Street,907,1951
+140,Hopital Notre Dame du Liban,Kesrouan/Jbeil,Fouad Chehab Street - Jounieh - LebanonP.O.Box: 7 Jounieh,140,1960
+142,Dar El Rahmeh,Metn/Baabda,Ain Saadeh,300,1971
+144,Azounieh,Chouf/Aley,Azounieh,60,1900
+147,Armenian Sanatorium of Azounieh,Chouf/Aley,EL Azounieh,125,1923
+150,Iman,Chouf/Aley,Aley,52,1980
+151,Medical 2000 Co. SARL Kamal Joumblat hopital,Chouf/Aley,Chouiefat Omara - Maidan Street,19,2001
+152,Central Hospital,Chouf/Aley,Chehim,65,2001
+153,Dr. Mounzir Al Hajj Hospital,Chouf/Aley,Jieh - Region Al Nabi Youness,32,1983
+155,Chtoura Hospital,Bekaa,Chtoura - 200 meter behind Police Station,32,1996
+157,Dar El Hikmah,Bekaa,baalbeck,85,1992
+160,El Bekaa,Bekaa,Taalbaya,100,1997
+163,Khoury General Hospital - Zahle - Doctors Center,Bekaa,Zahlé - Barbara -Brasil Street. P.O.Box: 5 Zahle,120,1990
+164,Libano-Francais,Bekaa,Houch El Oumara,132,1993
+165,Al Mortada hospital,Bekaa,Baalbeck Douris,50,1985
+166,Rayan,Bekaa,Baalbeck-Charawina,59,1991
+168,Tal Chiha,Bekaa,Zahleh,125,1948
+171,Akkar Rahal,North Lebanon,Halba - Akkar,100,1982
+172,Borgi,North Lebanon,Amioune,35,1951
+173,Hopital Chahine,North Lebanon,Rue Mohamed Karamé - Tripoli - Liban Nord,50,1951
+174,Al Bissar Hospital,North Lebanon,Tripoli - Lebanon,50,1996
+176,HOPITAL AL-KOURA,North Lebanon,Koura,62,1994
+177,El Youssef Hospital Center,North Lebanon,Halba Akkar - North Lebanon principal road,120,1995
+178,Hopital Albert HAYKEL. S.A.L,North Lebanon,Ras Maska - Koura - Haykalieh area - North Lebanon,120,1969
+179,Housseiny,North Lebanon,EL Mina Tripoli,0,1900
+180,New Hospital Mazloum,North Lebanon,Tripoli Boulevard,75,1960
+181,Melki,North Lebanon,Azmi Strt - Tripoli,0,1900
+182,Mounla hospital,North Lebanon,Tripoli city - Mounla Street,84,1957
+183,Hopital Notre Dame de la Paix,North Lebanon,Kobayat - Chwyta,150,1998
+184,Hopital Saydet Zgharta / HSZ,North Lebanon,Zgharta - Al Roueiss,149,1983
+187,Zahra',North Lebanon,El Kobbeh - Tripoli,0,1900
+190,Bassma Elissa,South Lebanon,Tyr,0,1900
+191,Dalla'a General Hospital,South Lebanon,Saida,100,1979
+192,El Charek,South Lebanon,Maghdoucheh,0,1900
+193,Elia,South Lebanon,Abra-Saida,0,1900
+194,Hammoud,South Lebanon,Saida,300,1966
+196,Hiram hospital,South Lebanon,Tyr - Jal EL Baher - South Lebanon,90,1997
+197,Al-Janoub hospital (Shuayb),South Lebanon,"Ma'arouf Saad Boulvard, Saida - Lebanon",90,1969
+198,Kharroubi Gen.Hospital,South Lebanon,Sarafand,56,1998
+199,Makkeh Darwish,South Lebanon,Jouwaya,0,1900
+200,Secours Populaire Libanais-Nabatieh,South Lebanon,Nabatieh,75,1985
+201,najm,South Lebanon,Tyr,80,1994
+202,Nakib,South Lebanon,Hlalieh Saida,0,1900
+203,Al-Hayat hospital,Metn/Baabda,Boulevard Chiah - Hazmieh,120,1967
+204,Hopital Hayek,Metn/Baabda,Sin El Fil - Horch Tabet - Rue Emir Bechir,50,1972
+205,Arz hospital,Metn/Baabda,Zalka - Metn - Liban,70,1987
+207,Bourj hospital,Beirut,Bourj El Barajneh - Osman Street,24,2001
+208,American University of Beirut Medical Center,Beirut,P.O.Box: 11-236 Riad El Solh 1107 2020 Lebanon,400,1902
+209,Karam hospital,Beirut,Adib Ishac Street - Ashrafieh,20,1967
+210,Medical Rehabilitation Center (Medium Stay),Beirut,Boulevard Ouzaii - Ouzaii area,27,1971
+211,Medical Rehabilitation Center (Long Stay),Beirut,Boulevard Ouzaii - Ouzaii area,70,1961
+216,Clemenceau Medical Center affiliated with Johns Hopkins International - CMC,Beirut,,106,2005
+217,Middle East Institute of Health,Metn/Baabda,"Bsalim main road, Mezher street",200,2003
+220,Ragheb Harb,South Lebanon,Nabatieh,37,1996
+224,Battoul,Bekaa,alhermel,29,2003
+225,Othman,Chouf/Aley,chouf ketermeya,44,2001
+227,St Georges Hadath,Metn/Baabda,,50,1970
+230,Rahma Hospital for Rehabilitation,North Lebanon,Sikit Bayda Street - Abou Samra,50,1997
+231,Bellevue Medical Center,Metn/Baabda,Mansourieh El Metn- Qanater Zbaidah,150,2009

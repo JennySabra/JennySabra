@@ -18,16 +18,16 @@ if st.button('Hello'):
 st.header("Hospitals in Lebanon")
 
 import plotly.express as px
-df= pd.read_csv("C:/Users/student/Desktop/Hospitals and Beds in Lebanon - 18 April 2021.csv")
+df= pd.read_csv("Hospitals and Beds in Lebanon - 18 April 2021.csv")
 fig= px.histogram(df, x="Location", y="Number of Beds")
 st.plotly_chart(fig)
 
-df= pd.read_csv("C:/Users/student/Desktop/Hospitals and Beds in Lebanon - 18 April 2021.csv")
+df= pd.read_csv("Hospitals and Beds in Lebanon - 18 April 2021.csv")
 fig1 = px.bar(df, x="Hospital", y="Number of Beds",
   animation_frame="Date of Establishment")
 st.plotly_chart(fig1)
 
-df= pd.read_csv("C:/Users/student/Desktop/Hospitals and Beds in Lebanon - 18 April 2021.csv")
+df= pd.read_csv("Hospitals and Beds in Lebanon - 18 April 2021.csv")
 fig2 = px.bar(df, x="Location", y="Number of Beds", color="Hospital")
 st.plotly_chart(fig2)
 
